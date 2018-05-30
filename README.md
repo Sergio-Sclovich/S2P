@@ -9,4 +9,4 @@ Usage:
 
 3)run the script from where the "infiles" folder is
 
-the path to "indfiles is set with "/" so it works on unix
+the path to "indfiles" is set with "/" so it works on unix

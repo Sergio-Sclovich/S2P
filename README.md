@@ -1,5 +1,7 @@
 # S2P
-convert STRUCTURE indfiles to PONG input files
+convert STRUCTURE (https://web.stanford.edu/group/pritchardlab/structure.html) indfiles 
+to 
+PONG (https://github.com/ramachandran-lab/pong) input files
 
 Usage:
 
